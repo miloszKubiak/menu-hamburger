@@ -48,7 +48,7 @@ nav a:hover {
 .burger {
     position: absolute;
     top: 0;
-    padding: 0;
+    left: 0;
     padding: 10px 20px;
     font-size: 36px;
     background: none;
